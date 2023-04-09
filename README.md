@@ -1,4 +1,4 @@
-## Bienvenue sur mon profile Github !
+## Welcome to my profile !
 <div align="center">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=Mouhib-Saleh&layout=compact&theme=algolia&background=0d1117&hide_border=true" />
 </div>
