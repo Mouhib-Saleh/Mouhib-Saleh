@@ -1,4 +1,7 @@
 ## Bienvenue sur mon profile Github !
+<div align="center">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Mouhib-Saleh&layout=compact&theme=algolia&background=0d1117&hide_border=true" />
+</div>
 <a href="https://www.buymeacoffee.com/mouhibSaleh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 <div align="center">
   <a href="https://github.com/Mouhib-Saleh/Mouhib-Saleh">
